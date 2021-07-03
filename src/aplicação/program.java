@@ -3,8 +3,8 @@ package aplicação;
 public class program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Testanto novo projeto no GitHub.com");
 	}
 
 }
